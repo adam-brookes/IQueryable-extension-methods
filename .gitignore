@@ -1,0 +1,14 @@
+EnumerableExtensionMethods/EnumerableExtensionMethods.sln.DotSettings.user
+bin/ 	# ignore bin directory 
+*.obj 	# ignore any files with .obj postfix 
+EnumerableExtensionMethods/.idea/
+EnumerableExtensionMethods/.vs/
+EnumerableExtensionMethods/Domain.Tests/bin/
+EnumerableExtensionMethods/Domain.Tests/obj/
+EnumerableExtensionMethods/Domain/bin/
+EnumerableExtensionMethods/Domain/obj/
+EnumerableExtensionMethods/EntityFramework/bin/
+EnumerableExtensionMethods/EntityFramework/obj/
+EnumerableExtensionMethods/Example.Api/bin/
+EnumerableExtensionMethods/Example.Api/obj/
+EnumerableExtensionMethods/Presentation/obj/
